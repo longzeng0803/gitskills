@@ -1,2 +1,2 @@
 hello world
-this is my first test.
+Creating a new branch is quick AND simple.
